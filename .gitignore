@@ -1,0 +1,26 @@
+# Dependências do node
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+log.json
+
+# Pastas de build ou dist
+dist/
+build/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
