@@ -1,5 +1,3 @@
-Show! Agora que entendi o projeto, aqui está um modelo de `README.md` que combina bem com o que você montou:
-
 ---
 
 # 📱 API WhatsApp - Disparo de Mensagens Automáticas
